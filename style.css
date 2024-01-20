@@ -1,0 +1,38 @@
+body {
+  background-image: url(/images/Fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header {
+  text-align: center;
+  color: rgb(121, 0, 0);
+}
+img {
+  height: 120px;
+}
+.container {
+  position: relative;
+  text-align: center;
+}
+.hijo {
+  width: 500px;
+}
+
+.equipostrofeos {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-5%, -20%);
+  line-height: 20%;
+}
+.records{
+    
+    position: absolute;
+    top: 235%;
+    left: 55%;
+   width: 700px;
+}
+.records li{
+    font-size: 1.5rem;
+    color: #ffffff;
+}
